@@ -1,6 +1,7 @@
 body{
-    background-color: #658864
+    background-color: #658864;
 }
+
 h1{
     color:#B7B78A; font-family: Calibri;
 }
@@ -9,4 +10,16 @@ h1{
 }
 #instructions{
     color:#FDA769; font-family: Calibri; font-size: 20px; font-weight: bold;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+}
+
+.button-1{
+    float: right;
 }
