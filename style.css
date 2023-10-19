@@ -1,0 +1,12 @@
+body{
+    background-color: #658864
+}
+h1{
+    color:#B7B78A; font-family: Calibri;
+}
+.label-1{
+    color:#DDDDDD; font-family: Calibri; font-size: 20px; padding: 10px;
+}
+#instructions{
+    color:#FDA769; font-family: Calibri; font-size: 20px; font-weight: bold;
+}
